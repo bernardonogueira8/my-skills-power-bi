@@ -22,5 +22,5 @@ O pacote é composto por 8 skills especializadas:
 Certifique-se de ter o `npx` instalado em sua máquina. Para baixar e instalar todas as skills deste pack, rode o comando abaixo no seu terminal:
 
 ```bash
-npx skills add
+npx skills add https://skills.sh/p/l0BugDdwMbjMA2j1
 ```
